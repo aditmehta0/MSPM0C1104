@@ -1,8 +1,16 @@
-# MSPM0C1104 CAD Model for DSBGA
+# MSPM0C1104 MCU – DSBGA CAD
 
-This CAD was created via SolidWorks.
+#WORLD's SMALLEST MCU CAD
 
-🧩 **3D View**:  
-Click below to view the model in an online viewer:
+This folder contains the 3D CAD files for the MSPM0C1104 in the DSBGA package.
 
-👉 [Open in 3D Viewer](https://3dviewer.net/#model=https://raw.githubusercontent.com/aditmehta0/MSPM0C1104/main/Design%20Files/MCU/CAD/MSPM0C1104S8YCJR.step)
+I have tested this on the board with correct die size and it fits!
+
+### 📦 Files Included
+- `MSPM0C1104S8YCJR.step`: STEP model for CAD tools
+- `MSPM0C1104S8YCJR.glb`: Web-viewable model for browser viewer
+- `index.html`: Standalone interactive 3D viewer
+
+### 🔍 View in 3D
+
+👉 [Launch the Viewer](./index.html)
