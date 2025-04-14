@@ -10,7 +10,7 @@ A compact breakout board for the TI MSPM0C1104 (DSBGA package), designed for bat
 ### 🧩 Circuit Schematic Preview
 
 <p align="center">
-  <img src="./Schematic/MCPM0C1104%20Board%20Schematic.png" alt="MSPM0C1104 Dev Board Schematic" width="600">
+  <img src="./Schematic/MSPM0C1104%20Board%20Schematic.png" alt="MSPM0C1104 Dev Board Schematic" width="600">
 </p>
 
 📄 [Click to view full schematic (PDF)](./Schematic/MSPM0C1104%20Dev%20Board%20Schematic.pdf)
@@ -22,8 +22,8 @@ A compact breakout board for the TI MSPM0C1104 (DSBGA package), designed for bat
 | File | Description |
 |------|-------------|
 | `index.html` | Interactive 3D viewer |
-| `MCPM0C1104 board DSBGA.step` | Full 3D STEP model of the board |
-| `MCPM0C1104 board DSBGA.glb` | Optimized GLB for browser viewing |
+| `MSPM0C1104 board DSBGA.step` | Full 3D STEP model of the board |
+| `MSPM0C1104 board DSBGA.glb` | Optimized GLB for browser viewing |
 | `README.md` | Info and schematic access |
 | `Schematic/` | Folder containing PDF and PNG previews of the circuit |
 
