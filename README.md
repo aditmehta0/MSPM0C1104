@@ -12,6 +12,12 @@
   <img src="https://images.techeblog.com/wp-content/uploads/2025/03/17113503/texas-instruments-ti-mspm0c1104-worlds-smallest-microcontroller.jpg" alt="MSPM0C1104" width="600">
 </p>
 
+<p align="center">
+  <img src="./Design%20Files/Dev%20Board/Schematic/MCPM0C1104%20Board%20Schematic.png" alt="Dev Board Schematic" width="600">
+</p>
+
+📄 [Click to view schematic (PDF)](./Design%20Files/Dev%20Board/Schematic/MSPM0C1104%20Dev%20Board%20Schematic.pdf)
+
 ---
 
 ### 🧭 Project Overview
@@ -30,14 +36,15 @@ This repo contains design files, 3D models, and interactive viewers for the **TI
 | Folder | Description |
 |--------|-------------|
 | [`Design Files/Dev Board`](./Design%20Files/Dev%20Board) | Full MSPM0C1104 breakout board |
+| [`Dev Board → Schematic`](./Design%20Files/Dev%20Board/Schematic/MSPM0C1104%20Dev%20Board%20Schematic.pdf) | PDF circuit schematic |
 | [`Design Files/TPS7A02 Nanopower IQ`](./Design%20Files/TPS7A02%20Nanopower%20IQ) | LDO regulator for power path |
 | [`Design Files/MCU DSBGA/CAD`](./Design%20Files/MCU%20DSBGA/CAD) | DSBGA chip model only |
 
-Each folder has:
+Each folder includes:
 - 🧊 `.step` file (engineering CAD)
-- 🧩 `.glb` file for online viewer
-- 🧭 `index.html` viewer
-- 📝 README.md
+- 🧩 `.glb` file for web viewer
+- 🧭 `index.html` 3D interface
+- 📝 `README.md` with part notes
 
 ---
 
@@ -47,7 +54,7 @@ Browse and interact with all models in real time:
 
 👉 [Launch Dashboard](https://aditmehta0.github.io/MSPM0C1104/)
 
-Built with [`<model-viewer>`](https://modelviewer.dev) to run in-browser — no installs!
+Powered by [`<model-viewer>`](https://modelviewer.dev) — in-browser, no software needed.
 
 ---
 
@@ -58,4 +65,4 @@ Built with [`<model-viewer>`](https://modelviewer.dev) to run in-browser — no 
 
 ---
 
-📬 Drop a ⭐ if you like the project — or open an issue to collab!
+📬 Drop a ⭐ if you like the project — or open an issue to contribute!

@@ -1,24 +1,42 @@
 # MSPM0C1104 Dev Board
+
 World's Smallest Microcontroller - Design files and more
 
 
-This folder contains the SolidWorks-based 3D CAD of the MSPM0C1104 dev board in `.step` and `.glb` formats.
-
-### 🔍 Interactive 3D Viewer
-
-Click below to view the board in your browser:
-
-👉 [Open 3D Viewer](./index.html)
+A compact breakout board for the TI MSPM0C1104 (DSBGA package), designed for battery-efficient microcontroller applications.
 
 ---
 
-- ✅ `MCPM0C1104 board DSBGA.step`: original STEP file  
-- ✅ `MCPM0C1104 board DSBGA.glb`: web-optimized `.glb` for live preview
+### 🧩 Circuit Schematic Preview
 
+<p align="center">
+  <img src="./Schematic/MCPM0C1104%20Board%20Schematic.png" alt="MSPM0C1104 Dev Board Schematic" width="600">
+</p>
 
-Several applications of the world's smallest microcontroller coming soon with optimization for battery powered applications!
+📄 [Click to view full schematic (PDF)](./Schematic/MSPM0C1104%20Dev%20Board%20Schematic.pdf)
 
-First design based on "Made by Morten", respect:
-https://youtu.be/XSAPGh9um_k?si=2z9dE-2DaWEN6B7G
+---
 
-Drop a comment if you visit !
+### 📦 Included Files
+
+| File | Description |
+|------|-------------|
+| `index.html` | Interactive 3D viewer |
+| `MCPM0C1104 board DSBGA.step` | Full 3D STEP model of the board |
+| `MCPM0C1104 board DSBGA.glb` | Optimized GLB for browser viewing |
+| `README.md` | Info and schematic access |
+| `Schematic/` | Folder containing PDF and PNG previews of the circuit |
+
+---
+
+### 🛠 Features
+
+- Supports TI MSPM0C1104 (1.6 × 0.8 mm DSBGA)
+- Minimal external components
+- TPS7A02 optional LDO regulator
+- Power LED + user output LED
+- Qwiic-compatible I²C header
+
+---
+
+👉 [Back to Root Dashboard](../../index.html)
