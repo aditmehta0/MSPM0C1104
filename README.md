@@ -19,9 +19,11 @@
 <p align="center">
   <img src="./Design%20Files/Dev%20Board/MCPM0C1104%20board%20DSBGA_top.jpg" alt="Dev Board Schematic" width="600">
 </p>
+
 <p align="center">
   <img src="./Design%20Files/Dev%20Board/MCPM0C1104%20board%20DSBGA_bottom2" alt="Dev Board Schematic" width="600">
 </p>
+
 📄 [Click to view schematic (PDF)](./Design%20Files/Dev%20Board/Schematic/MSPM0C1104%20Dev%20Board%20Schematic.pdf)
 
 ---
