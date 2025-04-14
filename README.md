@@ -4,6 +4,14 @@
 
 [![GitHub Pages](https://img.shields.io/badge/📦%20Live%203D%20Dashboard-View%20Now-blue?style=for-the-badge&logo=github)](https://aditmehta0.github.io/MSPM0C1104/)
 
+
+🧭 Project Overview
+This repo contains design files, 3D models, and interactive viewers for the TI MSPM0C1104, the world’s smallest general-purpose microcontroller.
+
+📏 Package: DSBGA 1.6 × 0.8 mm
+🔋 Battery-optimized, <160 nA sleep
+🧠 ARM Cortex-M0+ based, 32 MHz
+📐 9mm x 12mm board 
 ---
 
 ### 🌟 Visual Preview
